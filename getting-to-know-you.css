@@ -1,7 +1,7 @@
 h1 { color:rgb(55, 163, 182);}
 h2 { color: rgb(30, 255, 0);}
 p { color: orange;}
-li { style= list-style-type: square;}
+li { style= list-style-type:square;}
 h1 {font-size:250%;}
 h2 {font-size:150%;}
 ul {style=text-align:center; list-style-type:square;}
